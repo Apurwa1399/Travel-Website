@@ -1,0 +1,277 @@
+
+  /*desktop only*/
+  @media (min-width:767px){
+    .shifft {
+        padding-left: 30px;
+    }
+    .single-banner-slide a {
+        max-width: 21%;
+    }
+    .single-banner-slide span {
+        font-size: 25px;
+    }
+    .single-banner-slide h2 {
+        font-size: 45px;
+    }
+    .tour-des {
+        padding: 14px 15px;
+    }
+    .tour-ul p {
+        font-size: 14px;
+    }
+    .tour-ul ul li {
+        padding-right: 25px;
+    }
+    .book-now{
+        height:62px;
+    }
+}
+  /*for mobile and tablet*/
+@media (max-width:768px){
+    .tour-ul p {
+        font-size: 14px;
+    }
+    .shifft {
+        padding-left: 30px;
+    }
+    .single-banner-slide a {
+        max-width: 21%;
+    }
+    .single-banner-slide span {
+        font-size: 25px;
+    }
+    .single-banner-slide h2 {
+        font-size: 45px;
+    }
+    .single-banner-slide p {
+        max-width: 100%;
+        font-size: 15px !important;
+    }
+    .booking-form.boxed-layout {
+        margin-top: -20px;
+    }
+    .booking-form form label {
+        margin: 10px 0px;
+        }
+        .icon-bg {
+            margin-top: 10px;
+            width: 160px;
+        }
+        .cat-para {
+            margin-top: 10px;
+        }
+        .box5 img{opacity:.4;}
+        .box5 .title {
+            opacity: 1;
+            transform: translate(0,0);
+            transition-delay: .15s;
+            font-size: 17px;
+            padding: 10px 5px;
+        }
+        .book-head {
+            font-size: 33px;
+        }
+        .book-para {
+            font-size: 38px;
+        }
+        .item-book h6 {
+            font-size: 11px;
+        }
+        .title-partner h6 {
+            font-size: 32px;
+        }
+        .testimonials .card {
+            background:linear-gradient(#E8604C, rgb(204, 204, 204));
+    
+        }
+        .hide{
+            display: none;
+        }
+        .form-left h2 {
+            font-size: 38px;
+        }
+        .social-menu ul {
+            left: 49%;
+        }
+        .social-menu ul li {  
+            margin: 0 6px;
+        }
+        .cnt-card .cnt-icon {
+            transform: scale(2);
+            opacity: 0;
+          }
+          
+          .cnt-card .card-title {
+            transform: translate(0, 0);
+          }
+          .cnt-card .card-info {
+            transform: translate(0, 0);
+          }
+          .tour-des {
+            padding: 14px 15px;
+        }
+        .tour-ul ul li {
+            padding-right: 25px;
+        }
+        .tour-discription p {
+            font-size: 14px;
+            margin: 0px
+        }
+        .book-now{
+            height:62px;
+        }
+        .btn-caard ul li {
+            padding: 0 7px;
+        }
+        .btn-caard {
+            margin-top: 20px;
+        }
+        .position-relative {
+            height: 550px;
+        }  
+}
+@media (max-width: 460px) {
+    .single-banner-slide span {
+        font-size: 18px;
+    }
+    .single-banner-slide h2 {
+        font-size: 40px;
+    }
+    .single-banner-slide p {
+        max-width: 100%;
+        font-size: 13px !important;
+    }
+    .single-banner-slide a {
+        max-width: 35%;
+    }
+}
+@media (max-width: 420px) {
+.hide-p{
+    display: none;
+}
+}
+@media (max-width: 650px) {
+    .single-banner-slide span {
+        font-size: 18px;
+    }
+    .single-banner-slide h2 {
+        font-size: 40px;
+    }
+    .single-banner-slide p {
+        max-width: 100%;
+        font-size: 13px;
+    }
+    .single-banner-slide a {
+        max-width: 35%;
+    }
+}
+/*for mobile only*/
+@media (max-width: 568px) {
+    .position-relative {
+        height: 300px;
+    }
+    .single-banner-slide span {
+        font-size: 22px;
+    }
+    .single-banner-slide h2 {
+        font-size: 40px;
+    }
+    .single-banner-slide p {
+        max-width: 100%;
+        font-size: 13px;
+    }
+    .single-banner-slide a {
+        max-width: 35%;
+    }
+    .booking-form.boxed-layout form button {
+    font-size: 12px;
+    letter-spacing: 1;
+    }
+    .booking-form form button {
+    margin-top: 25px;
+    }
+    .booking-form form label {
+    margin: 10px 0px;
+    }
+    .Category {
+    margin: 10% 22px 5%;
+    }
+    .icon-bg {
+    width: 75px;
+    }
+    .service {
+    margin: 11% 0;
+    }
+    .box5 img{opacity:.4;}
+    .box5 .title{opacity:1;transform:translate(0,0);transition-delay:.15s;font-size: 30px;padding: 10px 20px;}
+    .bloog {
+        margin: 14% 0;
+    }
+    .book-head {
+        font-size: 34px;
+    }
+    .book-para {
+        font-size: 34px;
+    }
+    .testimonials .card {
+        background:linear-gradient(#E8604C, rgb(204, 204, 204));
+
+    }
+    .hide{
+        display: none;
+    }
+    .why-right {
+        padding: 46px 50px;
+    }
+    .item-icon{
+        font-size:30px;
+    }
+    .c-form {
+        margin: 135px auto;
+    }
+    .shifft{
+        padding:20px;
+    }
+    .btn-1 {
+        padding: 6px 8px;
+    }
+
+      .container .alt {
+        right: 5px;
+    }
+    .card-content h6{
+        font-size: 16px;
+    }
+    .card-content .btn-card ul li{
+        padding:0 11px;
+    }
+    .card-content ul li{
+        font-size:15px;
+    }
+    .btn-caard ul li {
+        padding: 0 0px;}
+    .tour-discription p {
+        font-size: 14px;
+        margin:0;
+    }
+    .tour-des {
+        padding: 0px 15px;
+    }
+    .btn-caard {
+        margin-top: 11px;
+    }
+    .tour-ul ul li {
+        padding-right: 54px;
+    }
+    .tour-ul p {
+        font-size: 14px;
+    }
+    .tour-ul ul li {
+        padding-right: 25px;
+    }
+}
+@media (max-width: 475px) {
+    .hide-trav-para{
+        display: none;
+    }
+    }
